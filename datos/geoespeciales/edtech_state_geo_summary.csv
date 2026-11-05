@@ -1,0 +1,17 @@
+country,state_code,state_name,us_region,student_count,average_score,average_completion_rate,total_interactions,interactions_per_student,average_help_request_rate,average_peer_interaction_rate,geo_source
+United States,AZ,Arizona,West,307,0.800089,0.811442,7612,24.7948,0.156067,0.050365,Synthetic
+United States,CA,California,West,902,0.813204,0.807494,22207,24.6197,0.151104,0.054228,Synthetic
+United States,CO,Colorado,West,275,0.796187,0.812419,6836,24.8582,0.146459,0.050766,Synthetic
+United States,FL,Florida,South,735,0.785637,0.810020,18547,25.2340,0.150445,0.050095,Synthetic
+United States,GA,Georgia,South,788,0.783000,0.803807,19765,25.0825,0.152156,0.049759,Synthetic
+United States,IL,Illinois,Midwest,297,0.799590,0.808761,7408,24.9428,0.146434,0.050792,Synthetic
+United States,MA,Massachusetts,Northeast,855,0.815249,0.814469,21492,25.1368,0.153588,0.050723,Synthetic
+United States,MI,Michigan,Midwest,295,0.798562,0.807244,7338,24.8746,0.152052,0.051992,Synthetic
+United States,MN,Minnesota,Midwest,311,0.797545,0.814003,7758,24.9453,0.151273,0.047034,Synthetic
+United States,NC,North Carolina,South,733,0.785112,0.809519,18311,24.9809,0.150518,0.048909,Synthetic
+United States,NJ,New Jersey,Northeast,301,0.797378,0.808818,7549,25.0797,0.149264,0.048470,Synthetic
+United States,NY,New York,Northeast,309,0.799057,0.815707,7794,25.2233,0.145945,0.047601,Synthetic
+United States,OH,Ohio,Midwest,321,0.799839,0.818983,7973,24.8380,0.150705,0.053670,Synthetic
+United States,PA,Pennsylvania,Northeast,309,0.798585,0.816355,7698,24.9126,0.144472,0.051495,Synthetic
+United States,TX,Texas,South,309,0.800700,0.818035,7833,25.3495,0.148329,0.051119,Synthetic
+United States,WA,Washington,West,953,0.814642,0.812786,23879,25.0567,0.148966,0.048944,Synthetic

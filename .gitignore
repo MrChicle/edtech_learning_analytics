@@ -1,0 +1,38 @@
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Configuraciones locales
+.vscode/
+.idea/
+
+# Variables de entorno y credenciales
+.env
+.env.*
+!.env.example
+
+# Archivos temporales
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Cachés de herramientas de análisis
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Archivos temporales de Spark
+spark-warehouse/
+metastore_db/
+derby.log

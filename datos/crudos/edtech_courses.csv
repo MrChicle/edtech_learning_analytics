@@ -1,0 +1,151 @@
+course_id,course_title,subject_area,difficulty_level,duration_weeks,instructor_rating,course_format,has_assignments,has_quizzes,has_discussion_forum,certificate_offered
+course_000,Economics 324,Art,Advanced,12,5.0,Interactive,True,True,True,False
+course_001,History 563,Physics,Beginner,15,3.7,Video,False,True,True,True
+course_002,History 244,English,Intermediate,5,4.6,Mixed,True,True,True,False
+course_003,Computer Science 549,Physics,Intermediate,4,4.8,Interactive,True,True,True,True
+course_004,Chemistry 574,English,Intermediate,9,3.6,Text-based,True,True,False,False
+course_005,Chemistry 227,Chemistry,Advanced,15,4.7,Interactive,True,True,True,True
+course_006,Chemistry 426,Biology,Advanced,10,3.8,Mixed,True,False,False,False
+course_007,Psychology 402,History,Intermediate,6,3.9,Video,True,True,True,True
+course_008,Physics 267,Computer Science,Advanced,10,4.0,Mixed,True,True,False,False
+course_009,Economics 483,Physics,Intermediate,14,4.3,Video,False,True,False,True
+course_010,History 135,Music,Advanced,13,5.0,Video,False,True,True,False
+course_011,Psychology 251,Computer Science,Advanced,4,4.7,Video,True,True,True,True
+course_012,Biology 342,History,Beginner,11,4.8,Interactive,True,True,True,True
+course_013,Biology 474,Chemistry,Advanced,12,3.8,Video,True,True,True,True
+course_014,English 387,Economics,Advanced,10,4.0,Mixed,False,True,True,True
+course_015,Language Learning 404,Mathematics,Beginner,13,3.9,Video,True,True,True,True
+course_016,Biology 121,Psychology,Advanced,15,3.9,Mixed,True,True,False,True
+course_017,Art 529,Biology,Beginner,13,3.9,Video,True,True,True,True
+course_018,Art 471,English,Advanced,11,3.7,Video,True,True,False,True
+course_019,Art 558,Computer Science,Beginner,7,4.9,Interactive,True,True,False,True
+course_020,Psychology 531,English,Intermediate,7,4.3,Interactive,True,True,False,True
+course_021,History 194,Art,Advanced,6,3.9,Video,True,False,False,False
+course_022,History 133,History,Intermediate,8,3.8,Video,True,True,False,True
+course_023,Economics 267,Biology,Intermediate,4,3.6,Mixed,False,True,True,False
+course_024,Chemistry 308,Chemistry,Intermediate,13,3.6,Interactive,False,True,True,True
+course_025,Art 188,Chemistry,Intermediate,6,4.7,Video,False,True,True,True
+course_026,English 142,Art,Beginner,7,3.9,Text-based,True,True,True,True
+course_027,Mathematics 573,Physics,Intermediate,12,4.6,Mixed,True,False,False,True
+course_028,Language Learning 563,Physics,Beginner,15,3.5,Interactive,True,True,False,True
+course_029,Physics 531,Biology,Intermediate,14,4.5,Video,False,True,True,False
+course_030,History 365,Language Learning,Beginner,6,4.5,Interactive,True,False,False,True
+course_031,Psychology 476,History,Intermediate,6,4.6,Video,False,True,True,False
+course_032,Psychology 590,Physics,Intermediate,14,4.5,Mixed,True,True,True,True
+course_033,Economics 233,Art,Beginner,11,3.9,Mixed,False,True,True,True
+course_034,Economics 125,Biology,Beginner,14,4.1,Video,True,True,False,True
+course_035,Art 285,History,Intermediate,15,3.9,Mixed,True,True,True,True
+course_036,Music 514,Language Learning,Intermediate,14,4.3,Interactive,True,False,False,True
+course_037,Economics 284,Computer Science,Intermediate,13,4.9,Text-based,True,False,True,False
+course_038,History 448,Economics,Beginner,14,4.1,Text-based,True,False,True,False
+course_039,Economics 371,Computer Science,Intermediate,9,4.8,Mixed,True,True,False,True
+course_040,English 420,Economics,Intermediate,7,4.9,Interactive,True,True,True,True
+course_041,English 281,Biology,Beginner,7,3.7,Interactive,True,True,True,True
+course_042,Art 243,Chemistry,Intermediate,12,4.8,Mixed,False,False,False,True
+course_043,Biology 541,Art,Beginner,5,3.8,Interactive,True,True,True,True
+course_044,English 287,Mathematics,Beginner,15,4.7,Video,True,True,True,True
+course_045,Language Learning 127,Chemistry,Beginner,7,4.3,Video,True,True,True,True
+course_046,Chemistry 578,History,Intermediate,4,4.4,Video,True,False,False,False
+course_047,Physics 244,Economics,Beginner,12,4.5,Text-based,False,True,False,False
+course_048,Mathematics 382,English,Advanced,4,4.7,Video,True,True,True,True
+course_049,Computer Science 146,Music,Beginner,13,3.6,Video,True,True,True,False
+course_050,Psychology 236,Psychology,Intermediate,5,4.9,Interactive,True,True,True,True
+course_051,Chemistry 436,Psychology,Intermediate,4,4.5,Video,True,False,True,True
+course_052,Language Learning 435,Economics,Beginner,14,5.0,Text-based,True,True,True,True
+course_053,Mathematics 503,Chemistry,Beginner,11,4.4,Mixed,True,True,False,True
+course_054,Biology 390,Mathematics,Intermediate,6,4.3,Video,False,True,True,True
+course_055,Music 282,Computer Science,Beginner,15,3.5,Video,True,True,True,True
+course_056,English 218,English,Advanced,14,4.2,Video,True,True,False,False
+course_057,History 503,Psychology,Intermediate,4,3.5,Interactive,True,True,True,True
+course_058,Biology 299,Language Learning,Beginner,8,3.9,Interactive,True,True,False,False
+course_059,English 256,Chemistry,Beginner,6,3.7,Video,True,True,False,True
+course_060,Physics 252,Language Learning,Intermediate,5,4.1,Mixed,False,True,True,False
+course_061,Biology 521,Chemistry,Beginner,15,4.6,Interactive,True,True,True,False
+course_062,Mathematics 271,Language Learning,Intermediate,5,4.5,Interactive,True,True,False,True
+course_063,Chemistry 413,Biology,Beginner,4,3.8,Mixed,True,True,True,True
+course_064,Mathematics 263,Music,Advanced,4,4.7,Video,True,True,False,False
+course_065,Music 376,Music,Beginner,14,3.7,Video,False,True,True,True
+course_066,History 542,Physics,Intermediate,7,4.0,Video,True,True,True,True
+course_067,Music 579,English,Beginner,4,4.7,Mixed,True,True,True,True
+course_068,Mathematics 110,Physics,Intermediate,12,4.6,Interactive,True,True,True,True
+course_069,Economics 208,Psychology,Advanced,7,3.5,Interactive,True,True,True,True
+course_070,Language Learning 570,Computer Science,Beginner,7,4.1,Mixed,True,True,True,True
+course_071,Mathematics 489,Computer Science,Intermediate,10,4.4,Video,True,True,True,True
+course_072,Music 489,Computer Science,Intermediate,14,4.0,Video,True,True,True,True
+course_073,Psychology 383,Economics,Intermediate,14,4.2,Video,True,True,True,True
+course_074,Computer Science 253,History,Beginner,7,4.5,Video,True,True,True,False
+course_075,Computer Science 232,Biology,Intermediate,14,4.0,Video,True,True,True,True
+course_076,Physics 438,Music,Intermediate,12,3.8,Video,False,True,True,False
+course_077,Language Learning 118,Economics,Beginner,9,4.5,Video,True,True,False,True
+course_078,Economics 384,Computer Science,Advanced,4,4.4,Video,True,True,False,True
+course_079,Physics 202,English,Beginner,7,4.7,Interactive,False,True,False,True
+course_080,Physics 213,Chemistry,Beginner,8,4.8,Interactive,True,True,True,False
+course_081,Psychology 176,Biology,Beginner,13,3.9,Video,True,True,False,False
+course_082,Computer Science 450,English,Beginner,4,4.2,Video,True,True,True,True
+course_083,Chemistry 598,Language Learning,Intermediate,10,4.0,Text-based,True,True,False,False
+course_084,Language Learning 564,History,Intermediate,4,4.1,Video,True,True,True,True
+course_085,Psychology 217,English,Advanced,7,4.4,Mixed,True,True,True,True
+course_086,Biology 135,Chemistry,Beginner,4,4.0,Mixed,True,True,True,True
+course_087,Biology 478,History,Beginner,13,3.8,Video,True,True,False,True
+course_088,Biology 478,Physics,Beginner,7,4.8,Interactive,True,True,True,True
+course_089,English 148,English,Beginner,14,3.9,Mixed,True,True,True,True
+course_090,History 318,Music,Beginner,8,4.3,Video,True,True,True,False
+course_091,Mathematics 376,Mathematics,Beginner,12,4.6,Video,False,True,True,True
+course_092,Physics 547,Psychology,Advanced,6,5.0,Video,True,True,True,False
+course_093,Music 110,Physics,Beginner,8,3.7,Mixed,True,True,False,False
+course_094,Psychology 116,Mathematics,Beginner,10,4.6,Text-based,False,True,True,True
+course_095,Language Learning 596,Economics,Beginner,12,4.5,Interactive,True,True,True,False
+course_096,Mathematics 132,Mathematics,Beginner,8,4.3,Video,False,True,False,False
+course_097,Physics 314,Language Learning,Intermediate,8,3.6,Video,True,True,False,True
+course_098,Mathematics 317,Physics,Advanced,15,3.7,Video,True,True,True,False
+course_099,Psychology 366,Mathematics,Beginner,8,4.1,Interactive,True,True,False,False
+course_100,Computer Science 308,Chemistry,Intermediate,13,3.8,Mixed,False,True,False,True
+course_101,Biology 224,Chemistry,Intermediate,8,3.6,Text-based,True,True,False,True
+course_102,History 290,Biology,Intermediate,11,4.1,Mixed,False,True,False,True
+course_103,Psychology 508,Music,Advanced,15,4.7,Video,False,True,False,True
+course_104,Computer Science 559,History,Beginner,5,4.0,Video,True,True,False,True
+course_105,Language Learning 227,Computer Science,Intermediate,8,4.2,Video,False,True,False,False
+course_106,Chemistry 114,Psychology,Beginner,14,4.3,Text-based,True,True,False,False
+course_107,Physics 282,Chemistry,Beginner,14,3.6,Video,True,True,False,False
+course_108,Biology 126,Language Learning,Intermediate,15,4.8,Video,True,True,True,False
+course_109,Physics 165,Economics,Beginner,6,4.3,Video,True,True,False,True
+course_110,Psychology 571,Music,Advanced,13,4.4,Mixed,True,True,False,True
+course_111,Economics 440,Psychology,Intermediate,13,4.3,Mixed,False,False,False,True
+course_112,Biology 496,Art,Intermediate,5,3.8,Mixed,False,True,False,True
+course_113,Mathematics 505,Chemistry,Beginner,9,4.0,Text-based,True,True,False,True
+course_114,English 208,Mathematics,Intermediate,11,4.8,Mixed,False,True,True,False
+course_115,Mathematics 268,Biology,Intermediate,15,4.1,Video,True,True,False,True
+course_116,Economics 352,Music,Beginner,11,4.7,Video,True,True,True,False
+course_117,Economics 532,English,Intermediate,13,3.9,Video,False,True,False,False
+course_118,Art 208,Mathematics,Beginner,6,4.0,Video,True,True,False,True
+course_119,Computer Science 372,Physics,Beginner,6,4.1,Text-based,True,True,False,True
+course_120,Art 472,Music,Advanced,12,4.4,Interactive,True,True,False,True
+course_121,Economics 584,Biology,Intermediate,11,4.9,Mixed,True,True,True,False
+course_122,Biology 292,Economics,Beginner,11,4.2,Interactive,True,True,False,True
+course_123,History 489,Language Learning,Intermediate,10,4.8,Mixed,True,True,True,True
+course_124,Computer Science 474,English,Intermediate,14,4.7,Video,True,True,False,True
+course_125,Mathematics 526,Psychology,Intermediate,10,4.1,Interactive,True,True,False,True
+course_126,Language Learning 595,Biology,Intermediate,5,4.4,Video,True,True,False,False
+course_127,Psychology 215,Computer Science,Intermediate,6,4.5,Video,False,False,True,True
+course_128,History 552,Music,Beginner,11,4.5,Interactive,False,True,True,False
+course_129,Physics 560,Computer Science,Beginner,15,4.0,Video,True,True,True,True
+course_130,Physics 215,Physics,Beginner,9,4.8,Video,True,True,True,False
+course_131,Biology 125,Physics,Advanced,9,4.1,Text-based,True,True,False,True
+course_132,Music 252,History,Beginner,7,3.7,Interactive,True,True,True,True
+course_133,Chemistry 381,Chemistry,Beginner,7,3.9,Video,True,True,False,False
+course_134,Language Learning 231,History,Beginner,7,3.9,Text-based,True,True,False,False
+course_135,Mathematics 431,Computer Science,Beginner,14,4.7,Interactive,True,True,False,True
+course_136,Chemistry 226,Physics,Advanced,13,4.3,Video,True,True,True,False
+course_137,Biology 317,English,Advanced,5,4.8,Video,True,True,True,True
+course_138,Language Learning 130,Chemistry,Beginner,7,4.4,Mixed,True,False,True,True
+course_139,History 216,Computer Science,Beginner,5,4.8,Video,False,True,True,True
+course_140,Art 579,Psychology,Beginner,11,3.6,Interactive,True,True,True,True
+course_141,Music 499,Music,Advanced,13,3.8,Video,False,True,True,True
+course_142,Biology 307,Language Learning,Advanced,8,4.7,Interactive,False,True,False,True
+course_143,Physics 330,Chemistry,Intermediate,7,4.0,Text-based,False,True,True,True
+course_144,Physics 574,English,Intermediate,11,4.7,Video,True,True,False,True
+course_145,Chemistry 465,Physics,Intermediate,4,4.7,Interactive,True,True,True,True
+course_146,Biology 155,English,Advanced,6,3.7,Video,True,True,True,True
+course_147,Physics 247,Chemistry,Advanced,4,4.1,Mixed,True,True,True,False
+course_148,Physics 412,English,Intermediate,7,3.9,Video,False,True,True,True
+course_149,Language Learning 299,English,Intermediate,14,3.7,Interactive,True,True,True,False

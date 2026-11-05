@@ -1,0 +1,37 @@
+columna,tipo_dato,valores_nulos,porcentaje_nulos,valores_unicos,transformacion,estado_calidad
+interaction_id,str,0,0.0,200000,Sin transformación específica,Completo
+student_id,str,0,0.0,8000,Sin transformación específica,Completo
+course_id,str,0,0.0,150,Sin transformación específica,Completo
+timestamp,datetime64[us],0,0.0,196699,Conversión a tipo datetime,Completo
+activity_type,str,0,0.0,6,Sin transformación específica,Completo
+duration_seconds,int64,0,0.0,4185,Sin transformación específica,Completo
+completion_rate,float64,0,0.0,101,Sin transformación específica,Completo
+score,float64,133419,66.71,41,Valores nulos conservados cuando la actividad no genera calificación,Nulos válidos
+attempts,int64,0,0.0,3,Sin transformación específica,Completo
+device_used,str,0,0.0,3,Sin transformación específica,Completo
+help_sought,bool,0,0.0,2,Sin transformación específica,Completo
+peer_interaction,bool,0,0.0,2,Sin transformación específica,Completo
+age,int64,0,0.0,49,Sin transformación específica,Completo
+education_level,str,0,0.0,4,Sin transformación específica,Completo
+study_field,str,0,0.0,5,Sin transformación específica,Completo
+learning_style,str,0,0.0,4,Sin transformación específica,Completo
+device_preference,str,0,0.0,3,Sin transformación específica,Completo
+timezone,str,0,0.0,5,Sin transformación específica,Completo
+previous_online_courses,int64,0,0.0,16,Sin transformación específica,Completo
+has_learning_disability,int64,0,0.0,2,Sin transformación específica,Completo
+motivation_level,str,0,0.0,3,Sin transformación específica,Completo
+course_title,str,0,0.0,149,Sin transformación específica,Completo
+subject_area,str,0,0.0,12,Sin transformación específica,Completo
+difficulty_level,str,0,0.0,3,Sin transformación específica,Completo
+duration_weeks,int64,0,0.0,12,Sin transformación específica,Completo
+instructor_rating,float64,0,0.0,16,Sin transformación específica,Completo
+course_format,str,0,0.0,4,Sin transformación específica,Completo
+has_assignments,int64,0,0.0,2,Sin transformación específica,Completo
+has_quizzes,int64,0,0.0,2,Sin transformación específica,Completo
+has_discussion_forum,int64,0,0.0,2,Sin transformación específica,Completo
+certificate_offered,int64,0,0.0,2,Sin transformación específica,Completo
+interaction_year,int32,0,0.0,2,Nueva característica derivada de timestamp,Completo
+interaction_month,int32,0,0.0,12,Nueva característica derivada de timestamp,Completo
+interaction_week,int64,0,0.0,52,Nueva característica derivada de timestamp,Completo
+duration_minutes,float64,0,0.0,4185,Nueva característica derivada de duration_seconds,Completo
+average_student_score,float64,38,0.02,1077,Promedio de score calculado por estudiante,Revisar si aplica
